@@ -14,7 +14,7 @@ knit        : slidify::knit2slides
 ## Notes
 * We used "Car fuel consumptions and emissions 2000-2013” dataset, all data can be found [here](http://data.okfn.org/data/amercader/car-fuel-and-emissions).
 * Shiny app can be found [here](https://zaid.shinyapps.io/temp/).
-* Github repository for this app: [link](https://github.com/ZaidAl-Matari/ZaidAl-Matari).
+* Github repository for this app: [link](https://github.com/ZaidAl-Matari/zaidal-matari.github.io).
 * Initial report: [link](https://zaidal-matari.github.io/index.html).
 
 
